@@ -1,0 +1,11 @@
+
+# start comment
+
+foo.c
+
+# a comment
+
+main.c
+
+
+# end comment
